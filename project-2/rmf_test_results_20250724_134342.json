@@ -1,0 +1,138 @@
+{
+  "total_tests": 30,
+  "passed": 0,
+  "failed": 30,
+  "errors": 0,
+  "success_rate": 0.0,
+  "results": {
+    "Test 1: Create campaign": {
+      "status": "FAIL",
+      "error": "Test returned False"
+    },
+    "Test 2: Enable geo targeting": {
+      "status": "FAIL",
+      "error": "Test returned False"
+    },
+    "Test 3: Enable language targeting": {
+      "status": "FAIL",
+      "error": "Test returned False"
+    },
+    "Test 4: Create website/call conversion and generate code snippet": {
+      "status": "FAIL",
+      "error": "Test returned False"
+    },
+    "Test 5: Callout extensions": {
+      "status": "FAIL",
+      "error": "Test returned False"
+    },
+    "Test 6: Set bidding - Target CPA (Portfolio)": {
+      "status": "FAIL",
+      "error": "Test returned False"
+    },
+    "Test 7: Set bidding - Target CPA (Standard)": {
+      "status": "FAIL",
+      "error": "Test returned False"
+    },
+    "Test 8: Set bidding - Target ROAS (Portfolio)": {
+      "status": "FAIL",
+      "error": "Test returned False"
+    },
+    "Test 9: Set bidding - Target ROAS (Standard)": {
+      "status": "FAIL",
+      "error": "Test returned False"
+    },
+    "Test 10: Set bidding - Maximize Conversions": {
+      "status": "FAIL",
+      "error": "Test returned False"
+    },
+    "Test 11: Set budget": {
+      "status": "FAIL",
+      "error": "Test returned False"
+    },
+    "Test 12: Create ad group": {
+      "status": "FAIL",
+      "error": "Test returned False"
+    },
+    "Test 13: Add keyword": {
+      "status": "FAIL",
+      "error": "Test returned False"
+    },
+    "Test 14: Add campaign negative keywords": {
+      "status": "FAIL",
+      "error": "Test returned False"
+    },
+    "Test 15: Set keyword match type": {
+      "status": "FAIL",
+      "error": "Test returned False"
+    },
+    "Test 16: Edit campaign settings": {
+      "status": "FAIL",
+      "error": "Test returned False"
+    },
+    "Test 17: Edit bidding - Target CPA (Portfolio)": {
+      "status": "FAIL",
+      "error": "Test returned False"
+    },
+    "Test 18: Edit bidding - Target CPA (Standard)": {
+      "status": "FAIL",
+      "error": "Test returned False"
+    },
+    "Test 19: Edit bidding - Target ROAS (Portfolio)": {
+      "status": "FAIL",
+      "error": "Test returned False"
+    },
+    "Test 20: Edit bidding - Target ROAS (Standard)": {
+      "status": "FAIL",
+      "error": "Test returned False"
+    },
+    "Test 21: Edit bidding - Maximize Conversions": {
+      "status": "FAIL",
+      "error": "Test returned False"
+    },
+    "Test 22: Pause/enable/remove campaign": {
+      "status": "FAIL",
+      "error": "Test returned False"
+    },
+    "Test 23: Pause/enable/remove ad": {
+      "status": "FAIL",
+      "error": "Test returned False"
+    },
+    "Test 24: Pause/enable/remove keyword": {
+      "status": "FAIL",
+      "error": "Test returned False"
+    },
+    "Test 25: Customer-level reporting": {
+      "status": "FAIL",
+      "error": "Test returned False"
+    },
+    "Test 26: Campaign-level reporting": {
+      "status": "FAIL",
+      "error": "Test returned False"
+    },
+    "Test 27: Ad Group Ad reporting": {
+      "status": "FAIL",
+      "error": "Test returned False"
+    },
+    "Test 28: Keyword View reporting": {
+      "status": "FAIL",
+      "error": "Test returned False"
+    },
+    "Test 29: Search Term View reporting": {
+      "status": "FAIL",
+      "error": "Test returned False"
+    },
+    "Test 30: Bidding Strategy reporting": {
+      "status": "FAIL",
+      "error": "Test returned False"
+    }
+  },
+  "test_data": {
+    "campaign_id": null,
+    "budget_id": null,
+    "ad_group_id": null,
+    "ad_id": null,
+    "keyword_id": null,
+    "conversion_action_id": null,
+    "bidding_strategy_id": null
+  }
+}
