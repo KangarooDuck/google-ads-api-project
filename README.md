@@ -1,4 +1,4 @@
-# Google Ads Management Tool
+# Google Ads Management Tool (code generated with Claude Code)
 
 A Streamlit-based web application for managing Google Ads campaigns with comprehensive audit logging and tracking capabilities.
 
